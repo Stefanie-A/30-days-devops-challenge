@@ -1,4 +1,4 @@
-## DAY 1: WEATHER DATA COLLECTION SYSTEM USING OpenWeather API And AWS S3.
+## DAY 1: 🌤️ WEATHER DATA COLLECTION SYSTEM USING OpenWeather API And AWS S3.
 
 ### Overview
 The Weather Data Collection System is a project designed to fetches and store weather data from OpenWeather API. The data is retrieved for specified locations and stored in an AWS S3 bucket.
@@ -17,17 +17,17 @@ The Weather Data Collection System is a project designed to fetches and store we
 
 To set up and run this project, ensure you have the following:
 
-- AWS Account: For creating and managing S3 buckets.
+- ☁️ AWS Account: For creating and managing S3 buckets.
 
-- OpenWeather API Key: Sign up at OpenWeather to get an API key.
+- 🌍 OpenWeather API Key: Sign up at OpenWeather to get an API key.
 
 - Environment Setup:
 
-  -    Python 3.x
+  -  🐍 Python 3.x
 
-  -  AWS CLI configured with your credentials.
+  -  🔨 AWS CLI configured with your credentials.
 
-  - Required Python libraries (see below).
+  - 📚 Required Python libraries (see below).
 
 ## Installation
 
