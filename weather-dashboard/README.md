@@ -1,4 +1,4 @@
-## WEATHER DATA COLLECTION SYSTEM USING OpenWeather API And AWS S3.
+## DAY 1: WEATHER DATA COLLECTION SYSTEM USING OpenWeather API And AWS S3.
 
 ### Overview
 The Weather Data Collection System is a project designed to fetches and store weather data from OpenWeather API. The data is retrieved for specified locations and stored in an AWS S3 bucket.
