@@ -109,7 +109,7 @@ To periodically collect weather data, schedule the script using CRON or a task s
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License] (LICENSE). See the LICENSE file for details.
 
 ### Acknowledgements
 
