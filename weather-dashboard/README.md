@@ -117,3 +117,4 @@ OpenWeather API for providing weather data.
 
 AWS S3 for scalable storage solutions.
 
+Day 1 Completed
