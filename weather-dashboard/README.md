@@ -109,7 +109,7 @@ To periodically collect weather data, schedule the script using CRON or a task s
 
 ### License
 
-This project is licensed under the [MIT License] (LICENSE). See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Stefanie-A/30-days-devops-challenge/blob/4010179f8abd00004ca95e39f94de9c71690c154/LICENSE) file for details.
 
 ### Acknowledgements
 
